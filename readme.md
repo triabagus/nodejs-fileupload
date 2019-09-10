@@ -23,3 +23,5 @@ nodeJsUploadFile/
 npm install formidable
 npm install mv
 ```
+# Author
+ &copy;[triabagus](https://github.com/triabagus)
