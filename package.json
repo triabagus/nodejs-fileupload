@@ -1,0 +1,14 @@
+{
+  "name": "upload-file-node-js",
+  "version": "1.0.0",
+  "description": "This is tutorial upload file node JS",
+  "main": "upload_file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Tria Bagus",
+  "license": "ISC"
+}
